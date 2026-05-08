@@ -30,7 +30,7 @@ Below is the roadmap of metrics for this dataset, categorized by complexity and 
 
 ---
 
-## 3. Advanced Metrics (Deep Insights)
+## 3. Advanced Metrics (Deep Insights) - DO IT YOURSELF
 **Focus:** Complex joins, window functions, and behavioral analysis.
 
 * **Cohort Analysis:** Grouping users by "Signup Month" to track retention over time.
