@@ -53,6 +53,9 @@ The final dashboard (built with **Streamlit** or **Plotly Dash**) is organized i
 
 ---
 
+<img width="1639" height="738" alt="Screenshot 2026-05-08 at 7 42 09 PM" src="https://github.com/user-attachments/assets/9f65f66d-26b1-48d7-894b-d048f48cdca2" />
+
+
 ## Why this project helps learn Python:
 1.  **Data Cleaning:** Handling "Edge Cases" like mid-cycle plan changes or null satisfaction scores.
 2.  **Relational Logic:** Learning how to `merge` (join) the `accounts`, `subscriptions`, and `churn_events` tables.
